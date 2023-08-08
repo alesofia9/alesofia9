@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... research, hearing loss, education, edtech, tennis, matcha, and cats.
 - - 🌱 I’m currently learning ...fullstack, software developement, techlife, tech career. 
 - 💞️ I’m looking to collaborate on ...anything!
-- 📫 How to reach me ...alesofia09@gmail.com
+- 📫 How to reach me ...alesofia9@hotmail.com
 
 <!---
 alesofia9/alesofia9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
